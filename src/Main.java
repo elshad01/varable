@@ -40,6 +40,8 @@ var overload = (stuffWeight + productsWeight) % liftingCapacity;
 System.out.println("перегруз на" + overload + "кг!");
 var productsInOneCar = productsWeight / 2;
 System.out.println("продуктов в одной машине теперь"+ productsInOneCar);
+
+
 //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 
